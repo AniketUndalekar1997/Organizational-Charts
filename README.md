@@ -5,9 +5,9 @@
 
 
 # Organizational-Charts
-1.An Heirarchial organizational charts with filter, slider, staff image in django.
+1. An Heirarchial organizational charts with filter, slider, staff image in django.
 
-2.this app is build using Orgchart-master javascript library.
+2. this app developed using Orgchart-master javascript library.
 
 
 
